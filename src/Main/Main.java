@@ -20,7 +20,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         
         System.out.print("Ingresa la dimension del tablero: ");
-        int n = 16;
+        int n = 8;
         int numeroDeSoluciones = 0;
         int[][] tablero = new int[n][n];
         int reg = 0;
